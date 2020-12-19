@@ -11,28 +11,28 @@ Submitted as a final project for college course at IIIT-Delhi
 
 Course : CSE201: Advanced Programming 
 
-A working demo of the game can be viewed at <TBA>
+A working demo of the game can be viewed at TBA
 
 ## Features
 
-<TBA>
+TBA
 
 ## Implementations
 
-<TBA>
+TBA
 
 ## Design
 
-<TBA>
+TBA
 
 ## Screenshots
 
-<TBA>
+TBA
 
 ## How to play
 
-<TBA>
+TBA
 
 ## License
 
-<TBA>
+TBA
