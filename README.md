@@ -66,7 +66,8 @@ A working demo of the game can be viewed at TBA
 
 ## GAME PLAY 
 
-TBA
+<img src="https://github.com/spiyush0212/Color-Switch-Game/tree/main/GamePlayImages/mainMenu.JPG" width = 50%>
+<img src="https://github.com/spiyush0212/Color-Switch-Game/tree/main/GamePlayImages/gamePlay1.JPG" width = 50%>
 
 ## HOW TO PLAY
 
