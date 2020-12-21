@@ -1,18 +1,7 @@
 # Color-Switch-Game
 
-## DETAILS
-
-Developers: Piyush Sharma and Ritvik Budhiraja
-
-Re-created the classic Color Switch game 
-
-Using Java SDK 15.0.1 and JavaFX 15.0.1 along with Scene Builder
-
-Submitted as a final project for college course at IIIT-Delhi  
-
-Course : CSE201: Advanced Programming 
-
-A working demo of the game can be viewed at TBA
+Re-created the classic Color Switch game using Java SDK 15.0.1 and JavaFX 15.0.1 along with Scene Builder as a final project for a college course CSE201: CSE201: Advanced Programming at IIIT-Delhi. A working demo of the game can be viewed at linkComingSoon.
+<hr>
 
 ## FEATURES
 
