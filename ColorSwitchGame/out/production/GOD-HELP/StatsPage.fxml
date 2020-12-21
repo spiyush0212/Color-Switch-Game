@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.Double?>
+<?import javafx.scene.Group?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Polygon?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="pane" prefHeight="800.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="StatsPageController">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#282828" height="800.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="450.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#fe4250" height="172.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="450.0" />
+      <Polygon fill="#fe4250" layoutX="1.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+        <points>
+          <Double fx:value="-50.0" />
+          <Double fx:value="40.0" />
+          <Double fx:value="50.0" />
+          <Double fx:value="40.0" />
+          <Double fx:value="0.0" />
+          <Double fx:value="-60.0" />
+        </points>
+      </Polygon>
+      <Polygon fill="#fe4250" layoutX="51.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+         <points>
+            <Double fx:value="-50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="0.0" />
+            <Double fx:value="-60.0" />
+         </points>
+      </Polygon>
+      <Polygon fill="#fe4250" layoutX="101.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+         <points>
+            <Double fx:value="-50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="0.0" />
+            <Double fx:value="-60.0" />
+         </points>
+      </Polygon>
+      <Polygon fill="#fe4250" layoutX="151.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+         <points>
+            <Double fx:value="-50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="0.0" />
+            <Double fx:value="-60.0" />
+         </points>
+      </Polygon>
+      <Polygon fill="#fe4250" layoutX="251.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+         <points>
+            <Double fx:value="-50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="0.0" />
+            <Double fx:value="-60.0" />
+         </points>
+      </Polygon>
+      <Polygon fill="#fe4250" layoutX="201.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+         <points>
+            <Double fx:value="-50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="0.0" />
+            <Double fx:value="-60.0" />
+         </points>
+      </Polygon>
+      <Polygon fill="#fe4250" layoutX="301.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+         <points>
+            <Double fx:value="-50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="0.0" />
+            <Double fx:value="-60.0" />
+         </points>
+      </Polygon>
+      <Polygon fill="#fe4250" layoutX="351.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+         <points>
+            <Double fx:value="-50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="0.0" />
+            <Double fx:value="-60.0" />
+         </points>
+      </Polygon>
+      <Polygon fill="#fe4250" layoutX="401.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+         <points>
+            <Double fx:value="-50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="0.0" />
+            <Double fx:value="-60.0" />
+         </points>
+      </Polygon>
+      <Polygon fill="#fe4250" layoutX="451.0" layoutY="206.0" rotate="180.0" scaleX="0.5" scaleY="0.5" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+         <points>
+            <Double fx:value="-50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="50.0" />
+            <Double fx:value="40.0" />
+            <Double fx:value="0.0" />
+            <Double fx:value="-60.0" />
+         </points>
+      </Polygon>
+      <Rectangle arcHeight="30.0" arcWidth="30.0" fill="#511891" height="225.0" layoutX="29.0" layoutY="347.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="395.0" />
+      <Rectangle arcHeight="30.0" arcWidth="30.0" fill="#7525d4" height="225.0" layoutX="28.0" layoutY="342.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="395.0" />
+      <Rectangle arcHeight="30.0" arcWidth="30.0" fill="#561b99" height="140.0" layoutX="38.0" layoutY="416.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="375.0" />
+      <Group fx:id="homeButton" layoutX="70.0" layoutY="69.0" onMouseReleased="#goHome">
+         <children>
+            <Circle fill="WHITE" radius="42.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" height="35.0" layoutX="-18.0" layoutY="-12.0" stroke="BLACK" strokeType="INSIDE" width="36.0" />
+            <Polygon layoutY="-4.0" scaleX="0.6" scaleY="0.3" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0">
+              <points>
+                <Double fx:value="-50.0" />
+                <Double fx:value="40.0" />
+                <Double fx:value="50.0" />
+                <Double fx:value="40.0" />
+                <Double fx:value="0.0" />
+                <Double fx:value="-60.0" />
+              </points>
+            </Polygon>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="17.0" layoutX="-9.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="19.0" />
+         </children></Group>
+      <Text fill="WHITE" layoutX="127.0" layoutY="85.0" strokeType="OUTSIDE" strokeWidth="0.0" text="STATS">
+         <font>
+            <Font name="MS Gothic" size="47.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="171.0" layoutY="394.0" strokeType="OUTSIDE" strokeWidth="0.0" text="TOTALS">
+         <font>
+            <Font name="MS Gothic" size="37.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="63.0" layoutY="460.0" strokeType="OUTSIDE" strokeWidth="0.0" text="TOTAL JUMPS">
+         <font>
+            <Font name="MS Gothic" size="27.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="63.0" layoutY="497.0" strokeType="OUTSIDE" strokeWidth="0.0" text="STARS EARNED">
+         <font>
+            <Font name="MS Gothic" size="27.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="63.0" layoutY="534.0" strokeType="OUTSIDE" strokeWidth="0.0" text="HIGHSCORE">
+         <font>
+            <Font name="MS Gothic" size="27.0" />
+         </font>
+      </Text>
+      <Text fx:id="totalJumps" fill="WHITE" layoutX="376.0" layoutY="459.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0">
+         <font>
+            <Font name="MS Gothic" size="27.0" />
+         </font>
+      </Text>
+      <Text fx:id="stars" fill="WHITE" layoutX="376.0" layoutY="495.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0">
+         <font>
+            <Font name="MS Gothic" size="27.0" />
+         </font>
+      </Text>
+      <Text fx:id="highScore" fill="WHITE" layoutX="376.0" layoutY="533.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0">
+         <font>
+            <Font name="MS Gothic" size="27.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

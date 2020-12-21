@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.*?>
+<AnchorPane fx:id="rootPane" prefHeight="800.0" prefWidth="450.0" style="-fx-background-color: #272727;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="AnimationController">
+   <children>
+      <Circle id="ball" fx:id="ball" fill="#ff007d" layoutX="225.0" layoutY="666.0" radius="18.0" stroke="TRANSPARENT" strokeType="INSIDE" />
+      <Group id="circleObstacle" fx:id="circularObject" layoutX="144.0" layoutY="325.0">
+         <children>
+            <Arc fill="#26262600" layoutX="81.0" layoutY="74.0" length="90.0" radiusX="100.0" radiusY="100.0" stroke="#ff007d" strokeLineCap="BUTT" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#26262600" layoutX="80.0" layoutY="74.0" length="90.0" radiusX="100.0" radiusY="100.0" startAngle="90.0" stroke="#35e2f2" strokeLineCap="BUTT" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#26262600" layoutX="80.0" layoutY="75.0" length="90.0" radiusX="100.0" radiusY="100.0" startAngle="180.0" stroke="#9411f6" strokeLineCap="BUTT" strokeMiterLimit="0.0" strokeWidth="30.0" />
+            <Arc fill="#26262600" layoutX="81.0" layoutY="75.0" length="90.0" radiusX="100.0" radiusY="100.0" startAngle="270.0" stroke="#f5de14" strokeLineCap="BUTT" strokeMiterLimit="0.0" strokeWidth="30.0" />
+         </children>
+      </Group>
+   </children>
+</AnchorPane>

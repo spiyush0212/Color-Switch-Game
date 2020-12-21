@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+<AnchorPane fx:id="root" xmlns="http://javafx.com/javafx/11.0.1"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="GamePlayController"
+            style="-fx-background-color: #272727;"
+            prefHeight="800.0" prefWidth="450.0">
+
+    <children>
+    <Group fx:id="pauseButton" layoutX="390.0" layoutY="60.0" onMouseReleased="#openPauseMenu">
+        <children>
+            <Circle fill="#5d5d5d" radius="34.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="-13.0" layoutY="-17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="9.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="35.0" layoutX="5.0" layoutY="-17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="9.0" />
+        </children>
+    </Group>
+    </children>
+
+</AnchorPane>
