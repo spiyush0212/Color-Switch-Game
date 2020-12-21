@@ -24,12 +24,10 @@ public class Main extends Application
 
     public void music()
     {
-        String s = "C:\\Users\\Piyush Sharma\\Desktop\\Final-Project-AP\\src\\sample\\assets\\colorSwitchTrack.mp3";
-//        String s = "D:\\IdeaProjects\\TestForColourSwitch\\src\\assets\\colorSwitchTrack.mp3";
+        String s = "assets\\colorSwitchTrack.mp3";
         Media h = new Media(Paths.get(s).toUri().toString());
         mediaPlayer = new MediaPlayer(h);
         mediaPlayer.play();
-
     }
 
     public static void main(String[] args)
