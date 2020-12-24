@@ -1,6 +1,6 @@
 # Color-Switch-Game
 
-Re-created the classic Color Switch game using Java SDK 15.0.1 and JavaFX 15.0.1 along with Scene Builder as a final project for a college course CSE201: CSE201: Advanced Programming at IIIT-Delhi. A working demo of the game can be viewed at linkComingSoon.
+Re-created the classic Color Switch game using Java SDK 15.0.1 and JavaFX 15.0.1 along with Scene Builder as a final project for a college course CSE201: CSE201: Advanced Programming at IIIT-Delhi. A working demo of the game can be viewed at https://youtu.be/QKdXAUkLS38
 <hr>
 
 ## FEATURES
