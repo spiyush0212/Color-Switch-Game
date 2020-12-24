@@ -64,7 +64,7 @@ Re-created the classic Color Switch game using Java SDK 15.0.1 and JavaFX 15.0.1
 ## HOW TO PLAY
 
 1) Drop a ⭐ on the Github Repository :)
-2) Clone the Repo by going to your local Git Client and pushing in the command: git clone git@github.com:spiyush0212/Color-Switch-Game.git
+2) Clone the Repo by going to your local Git Client and pushing in the command: ```git clone git@github.com:spiyush0212/Color-Switch-Game.git```
 3) Open this project in your Java IDE
 4) Add the required Java SDK, JavaFX SDK and VM options
 5) Enjoy the application :)
